@@ -7,7 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   
-  title = 'The Component Divs Project!';
+  title = 'Component Divs Draggables by David Martínez Ros! (<a href="http://www.twitter.com/davidnezan" target="_blank">@davidnezan</a>)';
 
   constructor() {}
 
